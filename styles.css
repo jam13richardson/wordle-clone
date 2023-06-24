@@ -77,6 +77,7 @@ body {
     border-radius: 10px;
     padding: 8px;
     margin: 0;
+    margin: 5px auto;
 }
 
 tile.flip {
@@ -107,4 +108,8 @@ tile.flip {
 .green-overlay {
     background-color: #538d4e !important;
     border:none !important;
+}
+
+.game-container {
+    height: 568px;
 }
